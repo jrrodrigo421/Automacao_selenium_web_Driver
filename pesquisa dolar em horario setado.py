@@ -1,8 +1,7 @@
 import pyautogui
 from selenium.webdriver.common.by import By
 from PySimpleGUI import PySimpleGUI as sg
-import time
-import time
+
 import webbrowser
 from selenium import webdriver
 from selenium.webdriver.common.by import By
